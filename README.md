@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on The Momotech.al as a MERN stack Developer and some Personal Development Projects<br>🤝 I’m always eager to learn about new technologies and best principles.<br>🌱 I’m currently implementing front-end technologies and back-end systems.<br>
+🔭 I’m currently working on The Momotech.al as a MERN Stack Developer and some Personal Development Projects<br>🤝 I’m always eager to learn about new technologies and best principles.<br>🌱 I’m currently implementing front-end technologies and back-end systems.<br>
 
 
 # 💻 Tech Stack:
